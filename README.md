@@ -1,0 +1,2 @@
+# Trivia
+for trivia game
