@@ -77,10 +77,7 @@ $(document).ready(function(){
             p.append("<button> answer </button>")
             $("#choices").append(p)
         }
-        $("answer").click(){
-            console.log(working kinda);
-
-        }
+      
         
      }
 });
